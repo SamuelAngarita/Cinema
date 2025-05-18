@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>MoviesInfo.csv</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>The_Batman.jpg</file>
+        <file>Interstellar.jpg</file>
+        <file>Dune_Part_Two.jpg</file>
+        <file>Gladiator.jpg</file>
+        <file>Surf's_Up.jpg</file>
+        <file>Django_Unchained.jpg</file>
+        <file>Inglourious_Basterds.jpg</file>
+    </qresource>
+</RCC>
